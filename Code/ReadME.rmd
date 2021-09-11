@@ -20,8 +20,11 @@ These models are applied to the data of the multifaceted program and their resul
 In order to run a model, you just have to follow the steps indicated in the Appendix 1 of my master thesis (installing
 Rstan and running the R file only).
 
-The data file of Banerjee et al. (2015), necessary to run these models, is available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NHIXNT
-We used in particular the household level data file "pooled_hh_postanalysis.dta", that can be obtained (in the folder ScienceDataRelease/data_modified) by running the Stata do files of the authors (that are in the folder ScienceDataRelease/dofiles).
+The data file of Banerjee et al. (2015), necessary to run these models, is available at 
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NHIXNT
+We used in particular the household level data file "pooled_hh_postanalysis.dta", that can 
+be obtained (in the folder ScienceDataRelease/data_modified) by running the Stata do files 
+of the authors (that are in the folder ScienceDataRelease/dofiles).
 
 
 
