@@ -3,7 +3,7 @@
 
 In this repository, I have put the code that has been used for the Bayesian hierarchical analysis (in the file "Code").
 
-My master thesis (pdf) is available at XXX.
+My master thesis (pdf) is available at [this link](https://arxiv.org/abs/2109.06759).
 
 
 
