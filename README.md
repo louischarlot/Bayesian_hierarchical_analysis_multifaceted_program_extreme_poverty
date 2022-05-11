@@ -14,7 +14,7 @@ You can find the code of this Bayesian analysis [in the Code folder](https://git
 
 In particular:
 
-- 
+- Our **first hierarchical model** is built in [this Stan file](./Code/Model_1.stan) and run in [this R file](./Code/Model_1.R).
 
 ![img](./Images/Model_1.png)
 
