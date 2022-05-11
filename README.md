@@ -18,6 +18,8 @@ In particular:
 
 ![img](./Images/Model_1.png)
 
+- Our **second hierarchical model** is built in [this Stan file](./Code/Model_2.stan) and run **without baseline values** in [this R file](./Code/Model_2.R) and **with baseline valiues** in [this R file](./Code/Model_2bis.R).
+
 ![img](./Images/Model_2.png)
 
 
