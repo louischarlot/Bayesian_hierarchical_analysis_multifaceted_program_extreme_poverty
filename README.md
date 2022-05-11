@@ -14,7 +14,9 @@ In this repository, you can find the code that has been used for this analysis (
 
 In particular:
 
-![img](./images/Model_1.png)
+![img](./Images/Model_1.png)
+
+![img](./Images/Model_2.png)
 
 
 
