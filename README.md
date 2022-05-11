@@ -10,9 +10,11 @@ The evaluation of a multifaceted program against extreme poverty in different de
 
 **R and Stan code:**
 
-In this repository, you can find the code that has been used for this analysis ([in the Code folder](https://github.com/louischarlot/Bayesian_hierarchical_analysis_multifaceted_program_extreme_poverty/tree/master/Code)).
+You can find the code of this Bayesian analysis [in the Code folder](https://github.com/louischarlot/Bayesian_hierarchical_analysis_multifaceted_program_extreme_poverty/tree/master/Code).
 
 In particular:
+
+- 
 
 ![img](./Images/Model_1.png)
 
